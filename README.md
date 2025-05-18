@@ -21,7 +21,7 @@ Here you can find information about my projects, skills, professional experience
 
 ## 📷 Preview
 
-![Portfolio Preview](./src/Assets/preview.jpg)
+![Portfolio Preview](./Images/preview.jpg)
 
 ## 📥 Installation
 
