@@ -12,13 +12,10 @@ import {
   SiPytorch,
   SiNumpy,
   SiPandas,
-  SiScikitlearn,
-  SiJupyter,
   SiPostgresql,
   SiMicrosoftsqlserver,
   SiHtml5,
   SiCss3,
-  SiExpress,
   SiMongodb,
   SiMysql,
 } from "react-icons/si";
