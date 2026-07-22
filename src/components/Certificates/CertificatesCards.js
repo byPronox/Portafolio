@@ -30,7 +30,7 @@ function CertificatesCard(props) {
             style={{ marginLeft: "10px" }}
           >
             <CgWebsite /> &nbsp;
-            {"Demo"}
+            {"View Certificate"}
           </Button>
         )}
       </Card.Body>
